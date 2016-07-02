@@ -1,0 +1,17 @@
+.wrap ul li{
+     list-style: none;
+     float: center;
+}
+
+img{
+     padding-left: 0;
+}    
+
+.wrap ul li ul li.sublist{
+     display: none;
+}
+.wrap ul li:hover>ul li{
+     display: inline-block;
+    float: none;
+     font-size: 20;
+}

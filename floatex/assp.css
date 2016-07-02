@@ -1,0 +1,49 @@
+.wrap ul li{
+ list-style: none;
+ font-size:20;
+ padding: 0 0;
+ background-color: blue;
+ overflow: hidden;
+ border-width: 0;
+}
+.wrap ul ul li.sublist{
+display: none;
+padding: 0;
+
+}
+.wrap ul li:hover>ul li{
+    display: inline;
+}
+.header{
+    position: fixed;
+    height: auto;
+    width: 100%;
+    z-index: 100;
+
+}
+.footer {
+  position: fixed;
+  width: 70%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
+header div .img{
+	width: 100px;
+	height: 70px;
+}
+.logo{
+	width: 50;
+	height: 40;
+}
+footer img{
+	width: 100px;
+	height: 80px;
+}
+ul li hover ul li
+{
+display: block;
+}

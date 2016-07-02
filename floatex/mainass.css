@@ -1,0 +1,84 @@
+ .wapr nav ul li {
+     display: inline;
+ }
+ 
+ section img {
+     width: 200px;
+     height: 300px;
+ }
+/* body {
+     background-image: url("images/background.jpg");
+ }*/
+ 
+ .wapr {
+     background-color: #ffff99; }
+ 
+ .wapr img {
+     background-color:#ffff99;
+     width: 70px;
+     height: 70px;
+ }
+ 
+ .hero img {
+     height: 500px;
+     width: 1000px;
+     padding-right: 3px;
+     padding-left: 3px;
+ }
+ 
+ section {
+     margin: 8px;
+
+ }
+ 
+ .grid_7 {
+     width: 30px;
+ }
+ .wapr h1 img
+ {
+ 	width: 950px;
+ }
+ 
+ footer img {
+     width: 60px;
+     height: 60px;
+ }
+ nav li ul{
+ 	display: inline;
+ }
+ header .wapr {
+     position: fixed;
+     height: auto;
+     width: 100%;
+     z-index: 100;
+     background-color: red;
+  }
+ footer{
+     width: 100;
+     padding: 1rem;
+     background-color: #efefef;
+     text-align: center;
+     height: 100px;
+
+ }
+ /*footer img {
+ 	float: right;
+
+ }*/
+ 
+ /*.wapr{
+	width:80px;
+}*/
+ 
+ li a {
+     text-decoration: none;
+     color: #666
+ }
+ col img{
+ 	width: 150px;
+ 	height: 120px;
+ }
+ ul a:hover {
+     text-decoration: underline;
+     color: 800000;
+ }

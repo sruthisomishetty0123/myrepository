@@ -1,0 +1,19 @@
+body{
+
+	font-style: italic;
+	font-size: 20;
+	
+	width: 600px;
+	margin: auto;
+
+
+}
+
+div p{
+	
+
+	text-align: center;
+	border: 1px solid gray;
+
+
+}
